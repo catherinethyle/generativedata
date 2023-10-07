@@ -1,0 +1,14 @@
+.data {
+	width: 90%;
+	grid-template-columns: auto auto auto auto auto auto auto;
+  	display: grid;
+  	grid-column-gap: 1px;
+  	grid-row-gap: 1px;
+  	justify-content: left;
+  	align-items: center;
+}
+
+.images {
+	width: 250px;
+	hieght: auto;
+}
